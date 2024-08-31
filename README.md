@@ -1,11 +1,18 @@
+![screenshot-1725130178774](https://github.com/user-attachments/assets/27a75e4b-5d52-49a4-bd36-f74aa35e9065) 
+
+
+![screenshot-1725130221264](https://github.com/user-attachments/assets/6da58a07-a7fa-4763-ae2c-70dc90797b98)
+
 # Credit_Card_Financial_Dashboard
 
 
-To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+To develop a comprehensive credit card weekly da![screenshot-1725130221264]
+shboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 
 ## Steps:
 ### Step1.Import data to SQL Database:
+
 a.Prepare csv file
 
 b.Create tables in SQL
