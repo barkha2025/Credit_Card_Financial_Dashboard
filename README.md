@@ -66,6 +66,7 @@ AgeGroup = SWITCH(
  ## Project Insights - Week 53 (31st Dec)
 
   WoW change: 
+  
 • Revenue increased by 28.8%, 
 
 • Total Transaction Amt & Count increased by xx% & xx%
@@ -84,7 +85,7 @@ AgeGroup = SWITCH(
  
  • Blue & Silver credit card are contributing to 93% of overall
  
-transactions
+transactions:
 
  • TX, NY & CA is contributing to 68%
  
