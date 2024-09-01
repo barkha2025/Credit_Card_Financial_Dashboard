@@ -6,7 +6,7 @@
 # Credit_Card_Financial_Dashboard
 
 
-To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+Developed a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 
 ## Steps:
@@ -22,7 +22,7 @@ c.Import csv file into SQL
 Queries are provided in this repository.
 
 ### Step2.
-Connected database with PowerBI Desktop then performed operations to create Dashboard.
+Connect database with PowerBI Desktop then perform operations to create Dashboard.
 
 ## DAX Queries:
 ```
